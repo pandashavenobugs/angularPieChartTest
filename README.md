@@ -1,3 +1,13 @@
+# Using Highcharts in angular
+you have to  install highcharts and  angular-highcharts
+first
+```bash
+  npm install highcharts-angular --save 
+```
+after installation
+```bash
+  npm install highcharts --save
+```
 # PieChartTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
